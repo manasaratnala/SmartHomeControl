@@ -1,0 +1,40 @@
+.main
+{
+background: #556270;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FF6B6B, #556270);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FF6B6B, #556270); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+text-align: center;
+	
+	border-color: green;
+	border: 20px solid white;
+	margin: 40px;
+}
+h1
+{
+	
+	color: white;
+}
+.division
+{
+	margin: 20px 0;
+}
+.aligning
+{
+	vertical-align: top;
+	padding: 10px 10px 10px 10px;
+	background-color: green;
+	color: white;
+}
+.aligning1
+{
+	vertical-align: top;
+	padding: 10px 10px 10px 10px;
+	background-color: red;
+	color: white;
+}
+.fg
+{      
+	width: 400px;
+	text-align: center;
+	margin: 5% auto;
+}
